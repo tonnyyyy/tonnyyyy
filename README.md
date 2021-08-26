@@ -1,6 +1,6 @@
 ## Hello gitHub 🙂
 ## Currently learning:
-### - ReactJS
+### - ReactJS / typescript
 ### - Django framework
 
 <!--
