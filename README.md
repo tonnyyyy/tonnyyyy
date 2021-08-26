@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello gitHub 🙂
+## Currently learning:
+# - ReactJS
+# - Django framework
 
 <!--
 **tonnyyyy/tonnyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
