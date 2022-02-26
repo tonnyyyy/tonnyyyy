@@ -1,4 +1,4 @@
-## Hello there 🙂
+# Hello there 🙂✌
 ## I'm currently learning 👇
 ### • ReactJS - typescript
 ### • Django framework - python
