@@ -13,7 +13,7 @@ I'm a brazilian full-stack web programmer.
 
 ## <img height="25" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me:
 
-<img align="right" width="300" src=".github/images/coding.gif" alt="person-coding-gif" />
+<img align="right" width="300" src=".github/images/coding.gif" alt="person-coding-gif" style="margin-left:20px"/>
 
 
 
