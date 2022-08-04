@@ -40,31 +40,31 @@ class TonyDev {
 
 <div style="display: flex; gap:8px">
   <img height="40" src=".github/icons/react.png">
-  <code><img height="40" src=".github/icons/javascript.png"></code>
-  <code><img height="40" src=".github/icons/typescript.png"></code>
-  <code><img height="40" src=".github/icons/django.png"></code>
-  <code><img height="40" src=".github/icons/python.png"></code>
-  <code><img height="40" src=".github/icons/html.png"></code>
-  <code><img height="40" src=".github/icons/css.png"></code>
+  <img height="40" src=".github/icons/javascript.png">
+  <img height="40" src=".github/icons/typescript.png">
+  <img height="40" src=".github/icons/django.png">
+  <img height="40" src=".github/icons/python.png">
+  <img height="40" src=".github/icons/html.png">
+  <img height="40" src=".github/icons/css.png">
 </div>
 
 ## **Back-end skills:**
 <div style="display: flex; gap:8px">
-  <code><img height="40" src=".github/icons/django.png"></code>
-  <code><img height="40" src=".github/icons/python.png"></code>
-  <code><img height="40" src=".github/icons/postgres.png"></code>
-  <code><img height="40" src=".github/icons/node.png"></code>
+  <img height="40" src=".github/icons/django.png">
+  <img height="40" src=".github/icons/python.png">
+  <img height="40" src=".github/icons/postgres.png">
+  <img height="40" src=".github/icons/node.png">
 </div>
 
 ## **Tools:**
 <div style="display: flex; gap:8px">
-  <code><img height="40" src=".github/icons/vscode.png"></code>
-  <code><img height="40" src=".github/icons/git.png"></code>
-  <code><img height="40" src=".github/icons/github.png"></code>
-  <code><img height="40" src=".github/icons/powershell.png"></code>
-  <code><img height="40" src=".github/icons/google-apps-script.png"></code>
-  <code><img height="40" src=".github/icons/power-automate.png"></code>
-  <code><img height="40" src=".github/icons/s3.png"></code>
+  <img height="40" src=".github/icons/vscode.png">
+  <img height="40" src=".github/icons/git.png">
+  <img height="40" src=".github/icons/github.png">
+  <img height="40" src=".github/icons/powershell.png">
+  <img height="40" src=".github/icons/google-apps-script.png">
+  <img height="40" src=".github/icons/power-automate.png">
+  <img height="40" src=".github/icons/s3.png">
 </div>
 
 <br>
