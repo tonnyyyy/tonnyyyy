@@ -39,7 +39,7 @@ class TonyDev {
 ## **Front-end skills:**  
 
 <div style="display: flex; gap:8px">
-  <code><img height="40" src=".github/icons/react.png"></code>
+  <img height="40" src=".github/icons/react.png">
   <code><img height="40" src=".github/icons/javascript.png"></code>
   <code><img height="40" src=".github/icons/typescript.png"></code>
   <code><img height="40" src=".github/icons/django.png"></code>
