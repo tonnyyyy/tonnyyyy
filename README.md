@@ -39,32 +39,68 @@ class TonyDev {
 ## **Front-end skills:**  
 
 <div style="display: flex; gap:8px">
-  <img height="40" src=".github/icons/react.png">
-  <img height="40" src=".github/icons/javascript.png">
-  <img height="40" src=".github/icons/typescript.png">
-  <img height="40" src=".github/icons/django.png">
-  <img height="40" src=".github/icons/python.png">
-  <img height="40" src=".github/icons/html.png">
-  <img height="40" src=".github/icons/css.png">
+  <a href="https://reactjs.org/">
+    <img height="40" src=".github/icons/react.png">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img height="40" src=".github/icons/javascript.png">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img height="40" src=".github/icons/typescript.png">
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img height="40" src=".github/icons/django.png">
+  </a>
+  <a href="https://www.python.org/">
+    <img height="40" src=".github/icons/python.png">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img height="40" src=".github/icons/html.png">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img height="40" src=".github/icons/css.png">
+  </a>
 </div>
 
 ## **Back-end skills:**
 <div style="display: flex; gap:8px">
-  <img height="40" src=".github/icons/django.png">
-  <img height="40" src=".github/icons/python.png">
-  <img height="40" src=".github/icons/postgres.png">
-  <img height="40" src=".github/icons/node.png">
+  <a href="https://www.djangoproject.com/">
+    <img height="40" src=".github/icons/django.png">
+  </a>
+  <a href="https://www.python.org/">
+    <img height="40" src=".github/icons/python.png">
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img height="40" src=".github/icons/postgres.png">
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img height="40" src=".github/icons/node.png">
+  </a>
 </div>
 
 ## **Tools:**
 <div style="display: flex; gap:8px">
-  <img height="40" src=".github/icons/vscode.png">
-  <img height="40" src=".github/icons/git.png">
-  <img height="40" src=".github/icons/github.png">
-  <img height="40" src=".github/icons/powershell.png">
-  <img height="40" src=".github/icons/google-apps-script.png">
-  <img height="40" src=".github/icons/power-automate.png">
-  <img height="40" src=".github/icons/s3.png">
+  <a href="https://code.visualstudio.com/">
+    <img height="40" src=".github/icons/vscode.png">
+  </a>
+  <a href="https://git-scm.com/">
+    <img height="40" src=".github/icons/git.png">
+  </a>
+  <a href="#">
+    <img height="40" src=".github/icons/github.png">
+  </a>
+  <a href="https://docs.microsoft.com/en-US/powershell/scripting/overview?view=powershell-7.2">
+    <img height="40" src=".github/icons/powershell.png">
+  </a>
+  <a href="https://developers.google.com/apps-script">
+    <img height="40" src=".github/icons/google-apps-script.png">
+  </a>
+  <a href="https://docs.microsoft.com/en-us/power-automate/getting-started">
+    <img height="40" src=".github/icons/power-automate.png">
+  </a>
+  <a href="https://aws.amazon.com/s3/getting-started/?nc1=h_ls">
+    <img height="40" src=".github/icons/s3.png">
+  </a>
 </div>
 
 <br>
