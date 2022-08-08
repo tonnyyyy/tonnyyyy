@@ -78,6 +78,19 @@ class TonyDev {
   </a>
 </div>
 
+## **Cloud**
+<div style="display: flex; gap:8px">
+  <a href="https://www.heroku.com/platform">
+    <img height="40" src=".github/icons/heroku.png">
+  </a>
+  <a href="https://aws.amazon.com/s3/getting-started/?nc1=h_ls">
+    <img height="40" src=".github/icons/s3.png">
+  </a>
+  <a href="#">
+    <img height="40" src=".github/icons/github.png">
+  </a>
+</div>
+
 ## **Tools:**
 <div style="display: flex; gap:8px">
   <a href="https://code.visualstudio.com/">
@@ -85,9 +98,6 @@ class TonyDev {
   </a>
   <a href="https://git-scm.com/">
     <img height="40" src=".github/icons/git.png">
-  </a>
-  <a href="#">
-    <img height="40" src=".github/icons/github.png">
   </a>
   <a href="https://docs.microsoft.com/en-US/powershell/scripting/overview?view=powershell-7.2">
     <img height="40" src=".github/icons/powershell.png">
@@ -97,9 +107,6 @@ class TonyDev {
   </a>
   <a href="https://docs.microsoft.com/en-us/power-automate/getting-started">
     <img height="40" src=".github/icons/power-automate.png">
-  </a>
-  <a href="https://aws.amazon.com/s3/getting-started/?nc1=h_ls">
-    <img height="40" src=".github/icons/s3.png">
   </a>
 </div>
 
