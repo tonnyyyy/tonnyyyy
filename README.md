@@ -78,7 +78,7 @@ class TonyDev {
   </a>
 </div>
 
-## **Cloud**
+## **Cloud:**
 <div style="display: flex; gap:8px">
   <a href="https://www.heroku.com/platform">
     <img height="40" src=".github/icons/heroku.png">
